@@ -1,2 +1,3 @@
 # Project_Goutham.github.io
-This repository is a showcase for our DAA course project
+
+This project is a part of our Design Analysis and Algorithms course. More coming soon!
