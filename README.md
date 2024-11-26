@@ -1,8 +1,7 @@
-# Project_Goutham.github.io
+<h1 style="text-align:center;">Project_Goutham.github.io</h1>
 
-This is our course project for the course Design and Analysis of Algorithms.
 <br>
-The project started when we received a need statement from our course instructor: 
+The project started when we received the initial need statement from our course instructor: 
 
 <div style="text-align: center; margin: 20px auto; font-family: Arial, sans-serif; background-color: #323232; border-radius: 15px; padding: 20px; max-width: 900px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="text-align: center;font-colour:black; font-weight: bold; font-size: 1.5em;">Design and Analysis of Algorithms-init</h3>
@@ -16,3 +15,13 @@ The project started when we received a need statement from our course instructor
         Assumptions: Area, State government, natural order (mountains, lakes etc.)
     </p>
 </div>
+
+# Overview
+Thomas Wayne's vision in the DC Comics transformed the fictional city of Gotham into a cutting-edge metropolis. Unfortunately, after his death, the city saw its downfall. Drawing lessons from such stories and realities such as the failed cities of Lavasa and Masdar, We propose a smart city - Goutham.
+
+We plan to build this city by connecting and enhancing the existing cities of Dahod, Limdi, Singwad, Fatepura, Santroad, Piplod, Golav, Ruvabari, and others as shown in the map. The existing towns and cities will retain their respective name but will fall under the governance of Goutham and will be called a part of it. The region’s demands for the development and recognition of local culture will be given a stage efforts will be made to meet these demands.
+
+Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on the Chota Udaipur Hills and the Gujarat plains, it experiences a moderate climate with gentle temperature fluctuations throughout the year. It also experiences moderate to heavy rainfall of about 1200mm per year. Local lakes and reservoirs are the city's main water supply.
+
+[The full description](https://docs.google.com/document/d/1bL8v7zvapSA1sLdzgCPqLlCRRp_oOqQkGiADjUPOuzw/edit?usp=sharing)
+
