@@ -1,3 +1,22 @@
+# Bussiness Use Cases 
+###### Vishruth G H 
+### 1. Bus Scheduling:
+Frequent bus scheduling - The city of Goutham, although well connected by multiple modes of transport, heavily depends on its public bus services. Infrequent and poorly scheduled bus services would lead to overcrowding and an unsatisfied user base. A good design for such a system is required.
+
+### 2. Mining: 
+Deposits of Mica, Graphite and Quartz mineral ores have been identified near the city's outskirts (close to Damod). These ores can be mined and transported to Goutham's industrial area for further processing using the robust railway, creating a valuable supply chain for industrial use.
+
+### 3. Agriculture:
+The region's soil is suitable for cultivating groundnuts, jowar, and rice. Trading these resources could be highly profitable. Establishing connections between farmers and the right merchants could further enhance trade profitability.
+
+
+
+
+
+
+
+
+
 ////////////////////// Electricity Park ////////////////////// 
 
 
