@@ -1,3 +1,9 @@
+## The Team
+1. Vishruth G H
+2. Pratyaksh Kaushik
+3. Samarth Mallapur
+4. Sumanth K S
+
 <h1 style="text-align:center;">Project_Goutham.github.io</h1>
 
 <br>
