@@ -17,6 +17,12 @@ The course assignments and projects are with real-world applications or at least
 ## Course learning reflections 
 ##### [Sumanth KS] (CLR-SKS.md)
 
+
+
+
+<hr>
+
+
 <h1 style="text-align:center;">Project_Goutham.github.io</h1>
 
 <br>
