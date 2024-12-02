@@ -12,8 +12,10 @@ We have come across many kinds of data structures such as n-nary trees, AVL tree
 
 The course assignments and projects are with real-world applications or at least mock-ups of the real-time application, discussing the use of each data structure and algorithm in the real-world scenario discussing its shortcomings and much more. For example, Submission throttling was discussed as a part of trie data structure, We were asked to wisely choose the data structure to build a recommendation engine and a localized, faster user-defined heap memory. The world currently, needs engineers who can build efficient algorithms or optimize the existing algorithms to perform better, This course builds the intuition to build better algorithms and the proper approach to understand the existing ones.
 
-#### Course learning reflections 
+<hr>
 
+## Course learning reflections 
+##### [Sumanth KS] (CLR-SKS.md)
 
 <h1 style="text-align:center;">Project_Goutham.github.io</h1>
 
