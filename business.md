@@ -1,5 +1,8 @@
 # Bussiness Use Cases 
+<hr>
+
 ###### Vishruth G H 
+
 ### 1. Bus Scheduling:
 Frequent bus scheduling - The city of Goutham, although well connected by multiple modes of transport, heavily depends on its public bus services. Infrequent and poorly scheduled bus services would lead to overcrowding and an unsatisfied user base. A good design for such a system is required.
 
@@ -10,16 +13,20 @@ Deposits of Mica, Graphite and Quartz mineral ores have been identified near the
 The region's soil is suitable for cultivating groundnuts, jowar, and rice. Trading these resources could be highly profitable. Establishing connections between farmers and the right merchants could further enhance trade profitability.
 
 
+### 4. City cleaning Maintenance
+City cleaning, maintenance, proper garbage disposal, and efficiently segregating recyclable, non-recyclable, biodegradable, and other kinds of waste. A clean city invites more people, which increases the commercial activities of the city. 
 
+### 5. Restaurant chain
+Restaurant chains that ensure quality food by locally sourcing their vegetables. An efficient distribution system would reduce costs and maximize profits
 
+### 6. Medical health camp
+health checkups at lower prices for specific regions. Hospitals need to coordinate and circulate this responsibility, covering the entire city. 
 
+<hr>
 
+###### Pratyaksh k
 
-
-
-////////////////////// Electricity Park ////////////////////// 
-
-
+### 1. Electricity Park
 The Goutham city is a city in Gujarat.
 Gujarat is considered to be the epicenter for industries & startups in India.
 Reasons behind this trend are multifold:
@@ -50,12 +57,11 @@ Goutham has a culture of renewable energy. This model to promote the generation 
 
 
 
-////////////////////// E-RICKSHAWs/E-TAXIs ////////////////////// 
-
+### 2. E-RICKSHAWs/E-TAXIs 
 
 Goutham city has 2 railway stations, which are mainly used to commute goods for industries, or for intra-city or long-distance journeys.
 
-///THEN WHAT ABOUT INTER-CITY TRAVEL? ///
+### 3.INTER-CITY TRAVEL
 
 Mumbai Model
 Mumbai city has a very popular trend of local trains, which serve millions of people every day and help them commute from their homes to workplaces, offices, educational institutions, and more.
@@ -67,12 +73,11 @@ There are a total of 288 metro stations under Delhi Metro, the highest in the co
 
 Unlike Delhi or Mumbai, Goutham city has only 3 metro lines, which obviously do not cover the whole city like Delhi. YES, the metro in Goutham doesn't cover the entire city.
 
-///THEN WHAT ABOUT INTER-CITY TRAVEL? ///
+### 3. INTRA-CITY TRAVEL
 
 Goutham-Metro is designed to efficiently connect the city's key areas, including both IT parks, the railway stations, the industrial zone, the administrative hub, the airport, and the outskirts of residential areas, ensuring seamless transit to all prominent locations.
 
-///THEN WHAT ABOUT INTER-CITY TRAVEL TO THE AREAS NOT EXCLUSIVELY COVERED BY THE METRO? ///
-
+### 4.INTRA-CITY TRAVEL TO THE AREAS NOT EXCLUSIVELY COVERED BY THE METRO?
 E-Rickshaw/E-Taxi
 Goutham city has developed a Smart/Sustainable-Travel Model to make inter-city commute affordable, clean, easier, and more sustainable.
 
@@ -89,3 +94,63 @@ b. Special zones near all metro stations for E-taxis/E-rickshaws.
 c. The government has installed charging stations at all these stands and zones.
 
 The Goutham-Metro lines act as the skeleton, whereas the E-rickshaws and E-taxis serve as the arteries and veins of the travel model of Goutham.
+
+<hr>
+
+###### Sumanth K S
+
+### 1. Recycling and Waste Management Services
+Goutham emphasizes organized waste management and sustainability.
+Establish a recycling plant or offer services like e-waste disposal and compost production from organic waste.
+Smart Waste Management and Recycling Services
+
+Alignment with Sustainability Goals:
+Goutham emphasizes waste segregation and collection. There's an opportunity to offer advanced recycling services or solutions for efficient waste disposal.
+Growing Urban Need:
+Rapid urbanization increases waste production. A structured recycling and waste management service can address this problem effectively.
+Government and Citizen Support:
+we can collaborate with local authorities, receive grants, and charge fees for organized waste collection and recycling.
+Revenue from Recycled Products:
+Recycled materials (plastic, paper, metals, compost) can be sold to manufacturers or directly to consumers.
+
+### 2. Smart Parking Solutions (since ours is SMART CITY)
+developing an IoT-enabled parking management system to address urban parking challenges.
+Installing smart parking sensors to detect vacant spots and Offering a mobile app for real-time parking availability and booking.
+Monetize through subscription fees and pay-per-use charges.
+Impact: Reduces traffic congestion and optimizes parking spaces, making city travel smoother.
+
+Public Transport Integration Platform
+Create a platform for managing metro, buses, and bike-sharing services.
+Offering a single app for booking and paying for all forms of public transport.
+Integrating reward systems for frequent users to encourage public transport usage.
+Partnering  with local governments for subsidies or exclusive access.
+
+### 3. Tourism and Cultural Experiences
+Creating eco-tours, workshops on local crafts, or heritage walks that showcase the region’s culture and sustainability efforts.
+A tourism tax is in place, suggesting government interest in boosting the sector.
+
+
+### 4. Local Crafts and E-commerce
+
+Sell handmade crafts or local produce via an online marketplace.
+Supporting local culture is part of the city’s vision, and e-commerce platforms can reach global markets.
+
+<hr>
+
+###### Samarth Mallapur
+### 1. New skill development center
+Our city Goutham is surrounded by a few small villages, who are skilled in traditional agriculture, forest product collection and craftsmanship.
+Hence, building new skill development centres would further help the citizens to improve their skills, and the children can learn these skills if they are required to.
+
+### 2. Utilizing the Woman Workforce
+Almost 90% of the women in the nearby villages are unemployed/homemaker. Hence, an industry which is suited for women workforce would be a good business case idea. ex:A Textile industry.
+
+### 3. Small Scale Industry
+The locals of this region are expertise in bamboo crafts, wood carving and traditional embroidery. Building small scale industries mass producing their products carries high potential for a business.
+
+### 4. Agricultural produce transport
+The farm products need to be transported to nearby APMCs, through trucks. Currently, trucks are scarce, and the price increases dramatically during high demand. Introducing a transportation company would be highly successful. Now, as the trucks are readily available, the prices can be maintained to a certain extent, while providing employment.
+
+
+### 5. Manufacturing locomotives
+The barren land available in the region is around 13%-15%. A railway workshop exists in a nearby village known as “Dahod”. Upgrading this facility to manufacture locomotives or coaches creates high employment. Indian railways are searching for new plant sites, making this the perfect opportunity.
