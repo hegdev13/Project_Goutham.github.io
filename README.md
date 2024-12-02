@@ -15,7 +15,7 @@ The course assignments and projects are with real-world applications or at least
 <hr>
 
 ## Course learning reflections 
-##### [Sumanth KS] (CLR-SKS.md)
+##### [Sumanth KS](CLR-SKS.md)
 
 
 
