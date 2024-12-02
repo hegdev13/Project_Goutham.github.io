@@ -61,7 +61,7 @@ Goutham has a culture of renewable energy. This model to promote the generation 
 
 Goutham city has 2 railway stations, which are mainly used to commute goods for industries, or for intra-city or long-distance journeys.
 
-### 3.INTER-CITY TRAVEL
+#### 1)INTER-CITY TRAVEL
 
 Mumbai Model
 Mumbai city has a very popular trend of local trains, which serve millions of people every day and help them commute from their homes to workplaces, offices, educational institutions, and more.
@@ -73,18 +73,18 @@ There are a total of 288 metro stations under Delhi Metro, the highest in the co
 
 Unlike Delhi or Mumbai, Goutham city has only 3 metro lines, which obviously do not cover the whole city like Delhi. YES, the metro in Goutham doesn't cover the entire city.
 
-### 3. INTRA-CITY TRAVEL
+#### 3) INTRA-CITY TRAVEL
 
 Goutham-Metro is designed to efficiently connect the city's key areas, including both IT parks, the railway stations, the industrial zone, the administrative hub, the airport, and the outskirts of residential areas, ensuring seamless transit to all prominent locations.
 
-### 4.INTRA-CITY TRAVEL TO THE AREAS NOT EXCLUSIVELY COVERED BY THE METRO?
+#### 4) INTRA-CITY TRAVEL TO THE AREAS NOT EXCLUSIVELY COVERED BY THE METRO?
 E-Rickshaw/E-Taxi
 Goutham city has developed a Smart/Sustainable-Travel Model to make inter-city commute affordable, clean, easier, and more sustainable.
 
 To achieve this:
-Goutham city promotes E-rickshaws and E-taxis on roads and encourages citizens to opt for these GREEN TAXIS.
+Goutham City promotes E-rickshaws and E-taxis on roads and encourages citizens to opt for these GREEN TAXIS.
 
-Goutham city provides subsidies and loan facilities for the purchase of E-taxis or E-rickshaws, which also provide an opportunity for poor people to create a source of income for themselves.
+Goutham City provides subsidies and loan facilities for the purchase of E-taxis or E-rickshaws, which also provide an opportunity for poor people to create a source of income for themselves.
 
 Goutham municipality has restricted commercial public transport running on fossil fuels from operating on roads.
 
