@@ -31,3 +31,6 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 
 [The full description](https://docs.google.com/document/d/1bL8v7zvapSA1sLdzgCPqLlCRRp_oOqQkGiADjUPOuzw/edit?usp=sharing)
 
+
+
+## [Bussiness Use Cases](business.md)
