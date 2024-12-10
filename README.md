@@ -1,16 +1,26 @@
-## The Team
-1. Vishruth G H
-2. Pratyaksh Kaushik
-3. Samarth Mallapur
-4. Sumanth K S
+## Introduction
+Course: Design and Analysis of Algorithms
+
+Course Instructor: Prakash Hegade
+### The Team: 
+- Vishruth G H
+    - USN: 01FE23BCS250 
+- Pratyaksh Kaushik
+    - USN: 01FE23BCS224
+- Samarth Mallapur
+    - USN: 01FE23BCS226 
+- Sumanth K S
+    - USN: 01FE23BCS
 
 # Design and Analysis of Algorithms
-Design Analysis of Algorithms is a course focused on the study of nature through the lens of algorithms. The course emphasises finding solutions to complex problems by observing and understanding the workings of natural elements intuitively and in the way they were developed historically.
+Design Analysis of Algorithms is a course focused on the study of nature through the lens of algorithms. The course emphasises finding solutions to complex problems by intuitively observing and understanding the workings of natural elements and how they were developed historically.
 
-We have come across many kinds of data structures such as n-nary trees, AVL trees, red-black trees, tries, queries,look-up table, sparse table, skip list, graphs, and many more combined with the study of algorithms such as sequential search, brave and cautious travel, backtracking, sorting techniques (bubble, selection, insertion, merge, quick, heap), string algorithms (Boyer-Moore, Knuth-Morris-Pratt, Rabin-Karp, rolling hash), union/disjoint sets, and shortest path algorithms (Floyd-Warshall, Prim's)
+We often hear that today's world is data-driven, and we need better management of data, but this has always been true since the dawn of humanity. The desire to group data, represent and make sense of it gave rise to data structures. As part of the course and outside of it, we have come across data structures (in the way of evolution) such as arrays, stacks, queues, linked lists, n-nary trees, AVL trees, red-black trees, tries, queries, look-up table, sparse table, skip list, graphs, and many more.
+
+The other part of the course deals with algorithms, which essentially boil a problem down to an instruction set that gives appropriate outputs for its defined use case. Some such algorithms that we came across are sequential search, brave and cautious travel, backtracking, sorting techniques (bubble, selection, insertion, merge, quick, heap), string algorithms (Boyer-Moore, Knuth-Morris-Pratt, Rabin-Karp, rolling hash), union/disjoint sets, and shortest path algorithms (Floyd-Warshall, Prim's)
 
 
-The course assignments and projects are with real-world applications or at least mock-ups of the real-time application, discussing the use of each data structure and algorithm in the real-world scenario discussing its shortcomings and much more. For example, Submission throttling was discussed as a part of trie data structure, We were asked to wisely choose the data structure to build a recommendation engine and a localized, faster user-defined heap memory. The world currently, needs engineers who can build efficient algorithms or optimize the existing algorithms to perform better, This course builds the intuition to build better algorithms and the proper approach to understand the existing ones.
+The course assignments and projects are in-line with real-world applications or at least mock-ups of the real-time application, discussing the use of each data structure and algorithm in the real-world scenario discussing its shortcomings and much more. For example, Submission throttling was discussed as a part of trie data structure, We were asked to wisely choose the data structure to build a recommendation engine and a localized, faster user-defined heap memory. The world currently, needs engineers who can build efficient algorithms or optimize the existing algorithms to perform better, This course builds the intuition to build better algorithms and also the proper approach to understand the existing ones.
 
 <hr>
 
