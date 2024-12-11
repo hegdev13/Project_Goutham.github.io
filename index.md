@@ -55,12 +55,12 @@ We plan to build this city by connecting and enhancing the existing cities of Da
 Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on the Chota Udaipur Hills and the Gujarat plains, it experiences a moderate climate with gentle temperature fluctuations throughout the year. It also experiences moderate to heavy rainfall of about 1200mm per year. Local lakes and reservoirs are the city's main water supply.
 
 [The full description](https://docs.google.com/document/d/1bL8v7zvapSA1sLdzgCPqLlCRRp_oOqQkGiADjUPOuzw/edit?usp=sharing)
+<hr>
 
 ## Course learning reflections 
 ##### [Sumanth KS](CLR-SKS.md)
 ##### [Vishruth GH](CLR-VGH.md)
 
 
-<hr>
 
 ## [Bussiness Use Cases](business.md)
