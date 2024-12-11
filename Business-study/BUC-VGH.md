@@ -10,7 +10,7 @@ Efficient food distribution systems ensure that locally sourced vegetables and g
 This system aligns with the following Sustainable Development Goals (SDGs):
 
 
- ### SDG 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+### SDG 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 > #### SDG Target 2.1
 > By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round
 > - Indicators
@@ -22,7 +22,9 @@ This system aligns with the following Sustainable Development Goals (SDGs):
 > - Indicators
 >     - 2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size
 >     - 2.3.2 Average income of small-scale food producers, by sex and indigenous status
+
 ### SDG 12. Ensure sustainable consumption and production patterns
+
 > #### SDG Target 12.3
 > By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses
 > - Indicators
