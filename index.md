@@ -13,7 +13,7 @@ layout: default
 >     - USN: 01FE23BCS224
 > - Samarth Mallapur
 >     - USN: 01FE23BCS226 
-> - [Sumanth K S] (https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
+> - [Sumanth K S](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
 >     - USN: 01FE23BCS236
 
 # Design and Analysis of Algorithms
