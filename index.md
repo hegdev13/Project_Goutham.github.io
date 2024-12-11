@@ -13,7 +13,7 @@ layout: default
 >     - USN: 01FE23BCS224
 > - Samarth Mallapur
 >     - USN: 01FE23BCS226 
-> - Sumanth K S
+> - [Sumanth K S] (https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
 >     - USN: 01FE23BCS
 
 # Design and Analysis of Algorithms
@@ -58,9 +58,11 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 <hr>
 
 ## Course learning reflections 
-##### [Sumanth KS](CLR-SKS.md)
+##### [Sumanth KS](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/))
 ##### [Vishruth GH](CLR-VGH.md)
 
 
 
 ## [Bussiness Use Cases](business.md)
+##### [Sumanth KS](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
+##### 
