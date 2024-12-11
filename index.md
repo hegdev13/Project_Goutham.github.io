@@ -3,17 +3,18 @@ layout: default
 ---
 
 ## Introduction
->Course: Design and Analysis of Algorithms
-> Course Instructor: Prakash Hegade
-> ### The Team: 
+> #### Course: Design and Analysis of Algorithms
+> 
+> #### Course Instructor: Prakash Hegade
+> #### The Team: 
 > - Vishruth G H
-    - USN: 01FE23BCS250 
+>     - USN: 01FE23BCS250 
 > - Pratyaksh Kaushik
-    - USN: 01FE23BCS224
- > - Samarth Mallapur
-    - USN: 01FE23BCS226 
+>     - USN: 01FE23BCS224
+> - Samarth Mallapur
+>     - USN: 01FE23BCS226 
 > - Sumanth K S
-    - USN: 01FE23BCS
+>     - USN: 01FE23BCS
 
 # Design and Analysis of Algorithms
 Design Analysis of Algorithms is a course focused on the study of nature through the lens of algorithms. The course emphasises finding solutions to complex problems by intuitively observing and understanding the workings of natural elements and how they were developed historically.
