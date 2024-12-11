@@ -67,6 +67,6 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 
 ## [Bussiness Use Cases](business.md)
 ##### [Sumanth K S](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
-##### [Vishruth G H](BUC-VGH.md)
-##### [Samarth C M](BUC-SCM.md)
-##### [Pratyaksh K](BUC-PKK.md)
+##### [Vishruth G H](Business-study/BUC-VGH.md)
+##### [Samarth C M](Business-study/BUC-SCM.md)
+##### [Pratyaksh K](Business-study/BUC-PKK.md)
