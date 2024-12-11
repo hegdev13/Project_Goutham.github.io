@@ -26,16 +26,26 @@ This system aligns with the following Sustainable Development Goals (SDGs):
 >     - (a) Food loss index and (b) food waste index
 
 
-To implement such a system 
+To implement such a system we would face some design problems: 
+1. For efficient food distribution across the city, we need to map the food sources and destination centres so that the cost function is minimum
+- This can be tackled by using a weighted graph to represent the sources and destinations as nodes and the edges as paths to them.
+- A minimum spanning tree would help construct the optimal route and hence **Kruskal's** or **Prim's** algorithms can be used
+
+2. Need for a dynamic system with real-time prioritization.
+- Having a sorting function that can sort the food supplies of each destination would help reevaluate the weights and reconstruct the spanning tree. **Quick sort** algorithm would be beneficial in this case.
+
+
+
+# Some other business use cases identified: 
 ### 1. Bus Scheduling:
 Frequent bus scheduling - The city of Goutham, although well connected by multiple modes of transport, heavily depends on its public bus services. Infrequent and poorly scheduled bus services would lead to overcrowding and an unsatisfied user base. A good design for such a system is required.
 
 ### 2. Mining: 
 Deposits of Mica, Graphite and Quartz mineral ores have been identified near the city's outskirts (close to Damod). These ores can be mined and transported to Goutham's industrial area for further processing using the robust railway, creating a valuable supply chain for industrial use.
 
-### 4. City cleaning Maintenance
+### 3. City cleaning Maintenance
 City cleaning, maintenance, proper garbage disposal, and efficiently segregating recyclable, non-recyclable, biodegradable, and other kinds of waste. A clean city invites more people, which increases the commercial activities of the city. 
 
 
-### 6. Medical health camp
+### 4. Medical health camp
 health checkups at lower prices for specific regions. Hospitals need to coordinate and circulate this responsibility, covering the entire city. 
