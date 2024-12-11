@@ -55,10 +55,14 @@ We borrow the notations of Omega (Ω), Theta(𝜭) and Big-Oh (O) to describe th
 Orders of Growth classify the algorithms on the output of their efficiency judged by the asymptotic notation.
 Below is a list of the most common orders of growth: 
 - O(1): Constant Time
-    -  
+- O(log n): Logarithmic Time
+- O(n): Linear Time
+- O(n log n): Linearithmic Time
+- O(n²): Quadratic Time
+- O(n³): Cubic Time
+- O(2ⁿ): Exponential Time
+- O(n!): Factorial Time
 
---# analysis of problem solving approach
--- Space and time efficiency- Explain the different class of problems - importance - orders of growth - (how to determine most efficient approach)
 
 --# design principles
 --# heirarchical data - tree data structures
