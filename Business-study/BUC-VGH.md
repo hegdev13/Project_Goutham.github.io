@@ -6,7 +6,10 @@
 A sustainable city relies heavily on efficient food production, management, and distribution systems. The region's fertile soil is well-suited for cultivating crops such as groundnuts, jowar, and rice. These crops not only fulfil the city's food requirements but also create significant trade opportunities due to their high demand.
 Goutham's strategic location provides access to regional and national markets, enhancing trade and diversifying resources. Trade also helps establish connections between farmers and merchants, which can help optimise the sector for better profitability and sustained growth.
 Efficient food distribution systems ensure that locally sourced vegetables and grains are delivered to restaurants, marketplaces, shelters, camps, and educational institutes across the city. This not only promotes food security and well-being but also minimizes the environmental footprint by reducing transportation costs and emissions. Supporting local agriculture strengthens the community while reinforcing Goutham’s commitment to sustainability and economic resilience.
+
 This system aligns with the following Sustainable Development Goals (SDGs):
+
+
  ### SDG 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 > #### SDG Target 2.1
 > By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round
@@ -19,7 +22,7 @@ This system aligns with the following Sustainable Development Goals (SDGs):
 > - Indicators
 >     - 2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size
 >     - 2.3.2 Average income of small-scale food producers, by sex and indigenous status
-### SDG 12. 
+### SDG 12. Ensure sustainable consumption and production patterns
 > #### SDG Target 12.3
 > By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses
 > - Indicators
