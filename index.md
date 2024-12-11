@@ -28,16 +28,8 @@ The course assignments and projects are in-line with real-world applications or 
 
 <hr>
 
-## Course learning reflections 
-##### [Sumanth KS](CLR-SKS.md)
 
-
-
-
-<hr>
-
-
-<h1 style="text-align:center;">Project_Goutham.github.io</h1>
+<h1 style="text-align:center;">Project Goutham</h1>
 
 <br>
 The project started when we received the initial need statement from our course instructor: 
@@ -64,6 +56,11 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 
 [The full description](https://docs.google.com/document/d/1bL8v7zvapSA1sLdzgCPqLlCRRp_oOqQkGiADjUPOuzw/edit?usp=sharing)
 
+## Course learning reflections 
+##### [Sumanth KS](CLR-SKS.md)
+##### [Vishruth GH](CLR-VGH.md)
 
+
+<hr>
 
 ## [Bussiness Use Cases](business.md)
