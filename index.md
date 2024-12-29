@@ -60,7 +60,7 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 ## Course learning reflections 
 ##### [Sumanth KS](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
 ##### [Vishruth GH](CLR-VGH.md)
-##### [Samarth C M](CLR-SCM.md)
+##### [Samarth C M](CLR-SCM.md)(https://github.com/SamarthMallapur/DAA-Repo/blob/d35b8d65ceb22c32dacd247183391dea30487251/Mapped%20algorithms.md)
 ##### [Pratyaksh K](CLR-PKK.md)
 
 
