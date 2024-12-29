@@ -147,7 +147,6 @@ Example: If the training center has 1000 candidates, Boyer-Moore
 can quickly locate the record of someone named "boyer".
 
 Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Boyer_Moore.cpp
-
 ](url)
 # II. Utilizing the Woman Workforce
 Almost 90% of the women in the nearby villages are unemployed/homemaker. 
@@ -217,7 +216,7 @@ Situation: Minimize transportation or setup costs by creating a network of indus
 
 Example: Use Prim's to connect Industries to different villages.
 
-Efficiency: O(|E|log|V|)
+Efficiency: O(E log V)
 
 Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Prims.cpp](url)
 
@@ -274,7 +273,7 @@ minimum transport cost.
 Example: Use Kruskal’s algorithm to connect a bamboo production unit with a warehouse efficiently.
 
 Efficiancy: With union find algorithm, the efficiency depends on sorting algorithm. 
-Hence efficiency is O(|E|log|E|)
+Hence efficiency is O(E log E)
 
 Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/kruskal.cpp](url)
 
