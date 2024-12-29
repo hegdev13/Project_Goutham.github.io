@@ -9,7 +9,7 @@ layout: default
 > #### The Team: 
 > - Vishruth G H
 >     - USN: 01FE23BCS250 
-> - Pratyaksh Kaushik
+> - Pratyaksh Kaushik(https://pratyaksh-k.github.io/DAA-Project/)
 >     - USN: 01FE23BCS224
 > - Samarth Mallapur
 >     - USN: 01FE23BCS226 
@@ -61,7 +61,7 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 ##### [Sumanth KS](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
 ##### [Vishruth GH](CLR-VGH.md)
 ##### [Samarth C M](CLR-SCM.md)
-##### [Pratyaksh K](CLR-PKK.md)
+##### [Pratyaksh K](https://pratyaksh-k.github.io/DAA-Project/)
 
 
 
@@ -69,4 +69,4 @@ Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on t
 ##### [Sumanth K S](https://sumanth2377.github.io/Sumanth_Gouthamcity.github.io/)
 ##### [Vishruth G H](Business-study/BUC-VGH.md)
 ##### [Samarth C M](Business-study/BUC-SCM.md)
-##### [Pratyaksh K](Business-study/BUC-PKK.md)
+##### [Pratyaksh K](https://pratyaksh-k.github.io/DAA-Project/)
