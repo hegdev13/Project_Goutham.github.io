@@ -118,9 +118,11 @@ Situation: A participant from a village needs to know the best route to attend t
 
 Example: For a participant in Village A, find the nearest skill center in Goutham city.
 
+Efficiency: O(n^2)
+
 Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/BFS.cpp
 ](url)
-Efficiency: O(n^2)
+
 ### 4.Heap:
 A heap is a tree-based data structure with the heap property,
 where each parent node is greater (max-heap) or smaller (min-heap) than its children.
