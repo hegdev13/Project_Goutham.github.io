@@ -11,11 +11,11 @@ Let's decompose this into smaller use cases and work each one out.
 
 ### 1. **Rain Prediction for Disaster Prevention**
 > Task: Weather forecast
-
+> 
 > SDG: 11
-
+> 
 > Target: 11.5
-
+> 
 > Indicator: 11.5.1, 11.5.2, 11.5.3(a), 11.5.3(b)
 
 The crops grown in this region, like groundnuts, wheat, tomatoes, potatoes, citrus fruits, and leafy vegetables, require a lot of water and can be easily damaged by heavy rainfall during harvest time. If farmers are informed about expected heavy rains, they can take precautions to protect their crops.
@@ -36,11 +36,11 @@ Code for Boyer-Moore on GitHub: [Boyer-Moore implementation](https://github.com/
 
 ### 2. **Dictionary for Crops and Seeds**
 > Task: Create a dictionary to assist farmers and municipal corporations to keep a record of seeds and crops
-
+>
 > SDG: 11
-
+>
 > Target: 11.a
-
+>
 > Indicator: 11.a.1
 
 Creating a dictionary would assist the farmers and the municipality in establishing good ties with urban, peri-urban and rural areas. This dictionary should just show if there is availability of a certain seed or a crop. If it is not present, then it implies that the produce can not be obtained on the land.
@@ -52,11 +52,11 @@ Code for trie on GitHub: [trie implementation](https://github.com/hegdev13/Proje
 
 ### 3. **Storing expiry dates of a batch of produce**
 > Task: Create a way to store expiry date of a batch so that priority can be given to them, and waste can be reduced
-
+>
 > SDG: 11
-
+>
 > Target: 11.6
-
+>
 > Indicator: 11.6.1
 
 As each new batch is stored inside a warehouse or any other storing facility, priority should be given to each batch based on its expiry date to reduce food wastage.
@@ -68,10 +68,11 @@ Code for BST on GitHub: [Binary Search Tree](https://github.com/hegdev13/Project
 
 ### 4. **Sorting the Produce **
 > Task: Sort the produce or rather classify the produce according to size and quality to make tiers to sell at the market
+>
 > SDG: 11
-
+>
 > Target: 11.a
-
+>
 > Indicator: 11.a.1
 
 Classifying the produce according to quality/volume allows for better economic growth and better trade as lower tiers are more affordable. This increases trade between urban, peri-urban and rural areas.
@@ -83,61 +84,107 @@ Code for Quicksort on GitHub: [Quick-sort](https://github.com/hegdev13/Project_G
 
 ### 5. **Market price fluctuations**
 > Task: Track market prices of produce
+> 
 > SDG: 11
-
+> 
 > Target: 11.a
-
+> 
 > Indicator: 11.a.1
 
 Some Food grains and produce fluctuate in the national market at a very high frequency, which reflects the demand and supply of produce. It also helps determine the value of a product for the day/event.  This increases trade between urban, peri-urban and rural areas.
-For such frequent updation and manipulations, **Fenwick trees** are efficient to implement on huge data sets and are also faster as they work on bit manipulations. Fenwick trees work on the principle of **bit manipulation**. They have a worst case efficiency of O(log n).
+For such frequent updation and manipulations, **Fenwick trees** are efficient to implement on huge data sets and are also faster as they work on bit manipulations. Fenwick trees work on the principle of **bit manipulation**. They have a **worst case efficiency of O(log n)**.
+
 Code for Fenwick trees on GitHub: [Fenwick trees](https://github.com/hegdev13/Project_Goutham.github.io/blob/e2ee0ecc167c823286198e049896eedd06784ca0/VGH_Codes/Fenwick-tree.cpp)
 
 
 ### 6. **Optimal Storage**
 > Task: make warehouses at optimal locations around the city.
+> 
 > SDG: 11
-
+> 
 > Target: 11.5
-
+> 
 > Indicator: 11.5.1
 
-After production, the produce needs to be stored at optimal locations around the city for quick relief if disaster strikes. optimal placing of warehouses also reduces the cost of transport. This problem can easily be figured out by using **kruskal's algorithm**. 
+After production, the produce must be stored at optimal locations around the city for quick relief if disaster strikes. The optimal placement of warehouses also reduces the cost of transport. This problem can easily be figured out using Kruskal's algorithm. 
 consider regions around the city as nodes and the distance between possible locations of warehouses as edges(the cost of the edges can be altered according to need), then the minimum spanning tree will give the optimal location for the warehouses.
+
 principle: **Greedy technique**
-efficiency: O(E log|v|)
+
+efficiency: O(E log|v|), efficiency of kruskals is dominated by the sorting algorithm, here we use quicksort.
+
 Code for Kruskal trees on GitHub: [kruskal](https://github.com/hegdev13/Project_Goutham.github.io/blob/8916422652c516fb0eab4504ba348b15ab5e1627/VGH_Codes/Kruskals.cpp)
 
 
 ### 7. **Mapping Products to Storage Locations**
 > Task: Map products to warehouses
+> 
 > SDG: 11
-
+> 
 > Target: 11.a
-
+> 
 > Indicator: 11.a.1
 
-Inventory is very important to maintain as even striking deals with neighbouring cities require this data. Fast retrivals can be done using **hashing**.
+Inventory is very important to maintain as even striking deals with neighbouring cities require this data. Fast retrievals can be achieved using **hashing**.
+
 principle: **space-time trade off**
-efficiency: O(1|)
+
+efficiency: O(1)
+
 Code for  on GitHub:
 
-### 8. **Mapping Products to Storage Locations**
-> Task: Map products to warehouses
+### 8. **Minimize the cost to distribute to warehouses**
+> Task: Minimize the cost of distributing to multiple warehouses from multiple production areas
+> 
 > SDG: 11
-
+> 
 > Target: 11.a
-
+> 
 > Indicator: 11.a.1
 
-Inventory is very important to maintain as even striking deals with neighbouring cities require this data. Fast retrivals can be done using **hashing**.
-principle: **space-time trade off**
-efficiency: O(1|)
+From multiple production areas to multiple warehouses and from multiple warehouses to marketplaces, schools, restaurants, and other places of food consumption, an all pair shortest path algorithm can give us the minimum cost that can be achieved. **Floyd's algorithm
+** is the best for this implementation. Floyd's works with a **worst case efficiency of O(n³)**
+
+principle: **Kleene's Closure, Dynamic Programming**
+
+efficiency: O(n³)
+
+Code for  on GitHub:
+
+### 9. **Food Inspection**
+> Task: To find the shortest (minimum cost) path for the inspector to visit all
+> 
+> SDG: 11
+> 
+> Target: 11.5
+> 
+> Indicator: 11.5.1, 11.5.3(b)
+
+The Food inspectors leave the municipal corporation to all the food storage and distribution areas, to achieve this they need a single source shortest path, hence **Dijkstra's algorithm** can be used. Dijkstra's Algorithm's efficiency is dominated by the data structured used for the priority queue, and a practical lowest upper bound of **O(E log|V|)** can be achieved currently by implementing a **heap**. A Fibonacci heap is said to be able to bring this bound even lower however, there is no right tool available to implement it.
+
+principle: **Greedy Technique**
+
+efficiency: O(E log|v|)
+
 Code for  on GitHub:
 
 
+### 10. **Food batches need to be called back**
+> Task: 
+> 
+> SDG: 11
+> 
+> Target: 11.5
+> 
+> Indicator: 11.5.1, 11.5.3(b)
 
+If a certain batch of food is found to be bad, the manufacture or the food inspector will call it back. and the food batch number has to be searched in a data set, and this has to happen quickly. For this implementation **Rabin-Karp** can be used as it is an optimization on the brute force string search and uses the technique and principles of **hashing**. 
 
+principle: **Space and Time trade off**
+
+efficiency: worst case - O(mn), otherwise - O(m+n)
+
+Code for  on GitHub:
 
 
 <hr>
