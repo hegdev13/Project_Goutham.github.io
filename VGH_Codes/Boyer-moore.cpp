@@ -1,7 +1,7 @@
 /*
 This is a modified implementation of Boyer-Moore, it also computes the frequency of the pattern.
 The corresponding file is BM-text.txt
-
+The data in the BM-text.txt text file was generated randomly 
 
 */
 #include <iostream>
