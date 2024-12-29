@@ -206,7 +206,13 @@ Insertion sort works great for nearly-sorted data giving a best case efficienly 
 Using the design principle of Transform and conquer gives us **Heap sort**, which transforms the given data into a heap and then performs root deletion on the heap to obtain the sorted data. 
 Efficiency: O(n log n)
 
-## Graph Algorithms and Minimum Spanning Trees
+-## Searching
+-### BFSS
+-### Robin-karp
+-### Boyer Moore
+-### KMP
+
+-## Graph Algorithms and Minimum Spanning Trees
 
 
 --# algo desgin techniques
