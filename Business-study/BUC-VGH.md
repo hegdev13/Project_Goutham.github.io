@@ -9,7 +9,7 @@ Efficient food distribution systems ensure that locally sourced vegetables and g
 
 Let's decompose this into smaller use cases and work each one out.
 
-### 1. Rain Forecast for Disaster Prevention
+### 1. Rain Prediction for Disaster Prevention
 > Task: Weather forecast
 
 > SDG: 11
@@ -30,9 +30,22 @@ HWHHD indicates rain, hence our pattern will be the code for rain.
 The weather prediction system can also pick up other patterns such as sunlight and is versatile in its working. since the dataset is huge, the **Boyer-Moore** sub-string search algorithm will work well. It has a worst-case **efficiency of O(m+n)**. and works on the principles of **Sliding Window**, **Pruning**, and **Prefix and Suffix**.
 (The below implementation of Boyer-Moore is modified to find frequency)
 
-Code for Boyer-Moore on GitHub: <placeholder>
+Code for Boyer-Moore on GitHub: [Boyer-Moore implementation](https://github.com/hegdev13/Project_Goutham.github.io/blob/54386e1cc178a690b773535bad5353611106cefe/VGH_Codes/Boyer-moore.cpp)
 
 
+### 2. Dictionary for Crops and Seeds
+> Task: Create a dictionary to assist farmers and municipal corporations to keep a record of seeds and crops
+
+> SDG: 11
+
+> Target: 11.a
+
+> Indicator: 11.a.1
+
+Creating a dictionary would assist the farmers and the municipality in establishing good ties with urban, peri-urban and rural areas. This dictionary should just show if there is availability of a certain seed or a crop. If it is not present, then it implies that the produce can not be obtained on the land.
+A **trie** data structure would help create this dictionary as it has fast retrieval. It works on the principle of **Space-Time Tradeoff** as it takes a lot of space and executes queries in constant time.
+
+Code for trie on GitHub: [trie implementation](https://github.com/hegdev13/Project_Goutham.github.io/tree/90e0e4f83b8b7d97c2a7b06a8a1bd03e1a2745f1/VGH_Codes)
 
 
 <hr>
