@@ -1,9 +1,14 @@
+/*
+This is a modified implementation of Boyer-Moore, it also computes the frequency of the pattern.
+The corresponding file is BM-text.txt
+
+
+*/
 #include <iostream>
 #include <string>
 #include <vector>
 #include <fstream>
 #include <algorithm>
-
 using namespace std;
 
 class BoyerMoore 
@@ -95,7 +100,7 @@ void BoyerMoore :: computeGSST()
 
 int main() 
 {
-    string text, pattern, fileName = "text.txt";
+    string text, pattern, fileName = "BM-text.txt";
 
     ifstream inputFile(fileName);
     if (!inputFile) 
