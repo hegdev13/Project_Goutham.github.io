@@ -11,9 +11,27 @@ Let's decompose this into smaller use cases and work each one out.
 
 ### 1. Rain Forecast for Disaster Prevention
 > Task: Weather forecast
+
 > SDG: 11
+
 > Target: 11.5
+
 > Indicator: 11.5.1, 11.5.2, 11.5.3(a), 11.5.3(b)
+
+The crops grown in this region, like groundnuts, wheat, tomatoes, potatoes, citrus fruits, and leafy vegetables, require a lot of water and can be easily damaged by heavy rainfall during harvest time. If farmers are informed about expected heavy rains, they can take precautions to protect their crops.
+
+Thanks to the strong technological presence and stronger inter-city relations, Goutham collects data from sensors placed throughout the city and neighbouring areas. These sensors track important factors like wind speed, air quality, humidity, and sunlight, which are stored in a dataset. By analyzing this data, patterns of high humidity and wind can indicate the possibility of rain. Finding these patterns and their frequency can help the farmers predict rains and help them make adjustments accordingly. 
+
+Sample text: LWHHB HWHHD HWHHB HWLHD 
+Sample Pattern: HWHHD
+explanation: every 5 letters describe the weather at a particular hour. The first 2 letters are about wind speed: LW = Low windspeed, the next 2 are about humidity: HH = High HUmidity, the last letter is about amount of sunlight, B: Bright.
+HWHHD indicates rain, hence our pattern will be the code for rain.
+
+The weather prediction system can also pick up other patterns such as sunlight and is versatile in its working. since the dataset is huge, the **Boyer-Moore** sub-string search algorithm will work well. It has a worst-case **efficiency of O(m+n)**. and works on the principles of **Sliding Window**, **Pruning**, and **Prefix and Suffix**.
+(The below implementation of Boyer-Moore is modified to find frequency)
+
+Code for Boyer-Moore on GitHub: <placeholder>
+
 
 
 
