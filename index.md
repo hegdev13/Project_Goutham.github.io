@@ -9,7 +9,7 @@ layout: default
 > #### The Team: 
 > - Vishruth G H
 >     - USN: 01FE23BCS250 
-> - Pratyaksh Kaushik(https://pratyaksh-k.github.io/DAA-Project/)
+> - [Pratyaksh Kaushik](https://pratyaksh-k.github.io/DAA-Project/)
 >     - USN: 01FE23BCS224
 > - Samarth Mallapur
 >     - USN: 01FE23BCS226 
