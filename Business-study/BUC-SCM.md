@@ -97,7 +97,7 @@ Situation: To quickly access the course details or participant data for administ
 
 Example: An array of participant names indexed by their training ID.
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Array.cpp](url)
+Sample code: https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Array.cpp
 
 ### 2.Bubble sort:
 Where: Sort the list of participants based on their performance in a course.
@@ -108,8 +108,8 @@ Example: Sort participants' scores to identify the top performers.
 
 Efficiency:O(n²)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Bubble%20sort.cpp
-](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Bubble%20sort.cpp](url)
+
 ### 3.BFS:
 An Algorithm to traverse through graph data struture. Known as cautious traversal
 Where: Use BFS to find the shortest path from a participant's village to the nearest training center.
@@ -120,8 +120,7 @@ Example: For a participant in Village A, find the nearest skill center in Goutha
 
 Efficiency: O(n^2)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/BFS.cpp
-](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/BFS.cpp[]](url)
 
 ### 4.Heap:
 A heap is a tree-based data structure with the heap property,
@@ -136,8 +135,9 @@ center with the highest demand.
 
 Efficiency: O(nlogn). 
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Heap.cpp
-](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Heap.cpp](url)
+
+
 ### 5.Boyer-Moore Algorithm:
 Where: Searching participant records in large datasets.
 
@@ -146,8 +146,8 @@ Situation: Quickly find a candidate's name from a large list using pattern match
 Example: If the training center has 1000 candidates, Boyer-Moore 
 can quickly locate the record of someone named "boyer".
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Boyer_Moore.cpp
-](url)
+Sample code:[https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Boyer_Moore.cpp](url)
+
 # II. Utilizing the Woman Workforce
 Almost 90% of the women in the nearby villages are unemployed/homemaker. 
 Hence, an industry which is suited for women workforce would be a good business case idea. 
@@ -161,7 +161,7 @@ Situation: Adding or removing names as women join or leave employment programs.
 
 Example: A list of women working in the textile industry, updated as they join or leave.
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Linked_list.c](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Linked_list.c](url)
 
 ### 2. Trie:
 A Trie is a specialized tree-like data structure used for dealing with applications
@@ -175,7 +175,7 @@ example: Searching an employee's address.
 
 Efficiency: O(l) where l is length of string.
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Trie.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Trie.cpp](url)
 
 ### 3. Hashing:
 Hashing algorithms are methods used to map data 
@@ -195,7 +195,7 @@ search:O(1)
 
 Delete:O(1)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Hashing.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Hashing.cpp](url)
 
 ### 4. Insertion sort:
 Where: Sort the list of women based on productivity, attendance, years of experience, etc.
@@ -206,8 +206,8 @@ Example: Sort an array of productivity scores to identify top workers.
 
 Efficiency: O(n^2)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Insertion_sort.cpp
-](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Insertion_sort.cpp](url)
+
 ### 5.Prim's Algorithm:
 Prim's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, undirected graph with weighted edges
 Where: Finding quickest path from village to Industries.
@@ -218,7 +218,7 @@ Example: Use Prim's to connect Industries to different villages.
 
 Efficiency: O(E log V)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Prims.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Prims.cpp](url)
 
 # Small Scale Industry
 The locals of this region are expertise in bamboo crafts, wood carving and traditional embroidery. 
@@ -235,7 +235,7 @@ Example: A binary tree where each node represents a category
 
 Efficiency: O(n log n)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/BST.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/BST.cpp](url)
 
 
 ### 2.Merge sort:
@@ -246,7 +246,7 @@ Situation: Before listing products on an e-commerce platform, organize them for 
 Example: A merge sort algorithm sorts products from highest to lowest demand.
 Efficiency: O(n log n)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Merge%20sort.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Merge%20sort.cpp](url)
 
 ### 3. DFS:
 An algorithm for traversing a graph data structure.
@@ -259,8 +259,9 @@ Example: Rewarding bonus to all employees working under a ceratin team leader.
 
 Efficiency: O(v^2) [v = no. of vertices]
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/DFS.cpp
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/DFS.cpp
 ](url)
+
 ### 4.Kruskal's Algorithm:
 Kruskal's algorithm is a well-known greedy algorithm used to find the 
 Minimum Spanning Tree (MST) of a connected, undirected graph.
@@ -275,7 +276,8 @@ Example: Use Kruskal’s algorithm to connect a bamboo production unit with a wa
 Efficiancy: With union find algorithm, the efficiency depends on sorting algorithm. 
 Hence efficiency is O(E log E)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/kruskal.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/kruskal.cpp](url)
+
 
 # Agricultural produce transport
 The farm products need to be transported to nearby APMCs, through trucks. 
@@ -296,7 +298,7 @@ Example: Compute the shortest path between a farm in Village A and APMC in Gouth
 
 Efficiency: O(|E|log|V|)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Dijkstra's.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Dijkstra's.cpp](url)
 
 ### 2.Queue:
 A Queue is a type of data structure that stores elements with associated priorities. 
@@ -317,7 +319,7 @@ Deletion: O(1)
 
 Search: O(n)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Queue.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Queue.cpp](url)
 
 ### 3. Selection sort:
 
@@ -329,7 +331,8 @@ Example: Sort transportation requests by distance from farm to APMC.
 
 Efficiency: O(n^2)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Selection_sort.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Selection_sort.cpp](url)
+
 
 ### 4. Rabin Karp Algorithm:
 String search algorithms are used to find a substring or pattern inside a string or text.
@@ -348,7 +351,7 @@ Average:O(n+m)
 
 Where n is length of text and m is length of pattern
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Rabin_carp.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Rabin_carp.cpp](url)
 
 
 ### 5. Stack:
@@ -366,7 +369,7 @@ push:O(1)
 
 pop:O(1)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Stack.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Stack.cpp](url)
 
 # Manufacturing locomotives
 The barren land available in the region is around 13%-15%. 
@@ -387,7 +390,7 @@ Example: Use Union-Find to merge two facilities when they are operationally conn
 
 Efficiency: O(n)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/kruskal.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/kruskal.cpp](url)
 
 (The above mentioned code utilizes union find algorithm)
 
@@ -403,8 +406,7 @@ production for the last month.
 
 Efficiency: O(log n)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/Fenwick_tree.cpp
-](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/Fenwick_tree.cpp](url)
 
 ### 3.Warshall's Algorithm:
 Based on the principle of Kleene's Theorom.
@@ -416,7 +418,7 @@ Example: Use Warshall’s algorithm to optimize the movement of raw materials fr
 
 Efficiancy: O(n^3)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Warshal.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Warshal.cpp](url)
 
 ### 4.Floyd's Algorithm:
 The Floyd-Warshall algorithm is an algorithm used to find the shortest paths between all pairs of nodes in a weighted graph.
@@ -429,7 +431,7 @@ Example: Use Floyd’s algorithm to minimize transportation time for parts withi
 
 Efficiency: O(n^3)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Algorithms/Floyd.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Algorithms/Floyd.cpp](url)
 
 
 ### 5.Binary Search:
@@ -445,11 +447,11 @@ Efficiency: Best case: O(1)
 
 Worst case & Avg case: O(log n)
 
-Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/main/Codes/Data%20structures/BST.cpp](url)
+Sample code: [https://github.com/SamarthMallapur/DAA-Repo/blob/44512751bb24592233fd3f2acf34f9418b161a3e/Codes/Data%20structures/BST.cpp](url)
 
 
 # Codes implemented with files:
-[https://github.com/SamarthMallapur/DAA-Repo/tree/main/codes%20with%20files](url)
+[https://github.com/SamarthMallapur/DAA-Repo/tree/44512751bb24592233fd3f2acf34f9418b161a3e/codes%20with%20files](url)
 
 # Personal GitHub Repository:
 [https://github.com/SamarthMallapur/DAA-Repo](url)
